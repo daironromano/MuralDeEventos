@@ -1,1 +1,1 @@
-copyrite
+© daironromano
