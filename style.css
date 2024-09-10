@@ -1,11 +1,19 @@
-body{
+body {
     text-align: center;
-
-    }
-h1{
-    padding: 0 0 50px 0;
 }
 
-h2{
+head {
+    padding: 0 0 50px 0;
+    border: solid;
+}
+
+h2 {
     padding: 150px 0 50px 0;
+    
+}
+
+footer{
+    padding: 150px 0 50px 0;
+    border: solid;
+    
 }
